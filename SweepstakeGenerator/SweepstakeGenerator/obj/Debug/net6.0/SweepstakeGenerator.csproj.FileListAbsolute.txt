@@ -1,0 +1,15 @@
+C:\Users\brcro\Documents\Repos\SweepstakeGenerator\SweepstakeGenerator\bin\Debug\net6.0\SweepstakeGenerator.exe
+C:\Users\brcro\Documents\Repos\SweepstakeGenerator\SweepstakeGenerator\bin\Debug\net6.0\SweepstakeGenerator.deps.json
+C:\Users\brcro\Documents\Repos\SweepstakeGenerator\SweepstakeGenerator\bin\Debug\net6.0\SweepstakeGenerator.runtimeconfig.json
+C:\Users\brcro\Documents\Repos\SweepstakeGenerator\SweepstakeGenerator\bin\Debug\net6.0\SweepstakeGenerator.dll
+C:\Users\brcro\Documents\Repos\SweepstakeGenerator\SweepstakeGenerator\bin\Debug\net6.0\SweepstakeGenerator.pdb
+C:\Users\brcro\Documents\Repos\SweepstakeGenerator\SweepstakeGenerator\obj\Debug\net6.0\SweepstakeGenerator.csproj.AssemblyReference.cache
+C:\Users\brcro\Documents\Repos\SweepstakeGenerator\SweepstakeGenerator\obj\Debug\net6.0\SweepstakeGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brcro\Documents\Repos\SweepstakeGenerator\SweepstakeGenerator\obj\Debug\net6.0\SweepstakeGenerator.AssemblyInfoInputs.cache
+C:\Users\brcro\Documents\Repos\SweepstakeGenerator\SweepstakeGenerator\obj\Debug\net6.0\SweepstakeGenerator.AssemblyInfo.cs
+C:\Users\brcro\Documents\Repos\SweepstakeGenerator\SweepstakeGenerator\obj\Debug\net6.0\SweepstakeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\brcro\Documents\Repos\SweepstakeGenerator\SweepstakeGenerator\obj\Debug\net6.0\SweepstakeGenerator.dll
+C:\Users\brcro\Documents\Repos\SweepstakeGenerator\SweepstakeGenerator\obj\Debug\net6.0\refint\SweepstakeGenerator.dll
+C:\Users\brcro\Documents\Repos\SweepstakeGenerator\SweepstakeGenerator\obj\Debug\net6.0\SweepstakeGenerator.pdb
+C:\Users\brcro\Documents\Repos\SweepstakeGenerator\SweepstakeGenerator\obj\Debug\net6.0\SweepstakeGenerator.genruntimeconfig.cache
+C:\Users\brcro\Documents\Repos\SweepstakeGenerator\SweepstakeGenerator\obj\Debug\net6.0\ref\SweepstakeGenerator.dll
